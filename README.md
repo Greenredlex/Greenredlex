@@ -1,5 +1,6 @@
 ### Hey 👋
 - 🔭 I’m currently working on school
+
 You can browse some of my amazing projects below:
 <!--
 **Greenredlex/Greenredlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
